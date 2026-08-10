@@ -1,0 +1,12 @@
+add_newline=false
+format = "$username $character"
+
+[username]
+format = '$user'
+show_always = true
+style_root = 'none'
+style_user = 'none'
+
+[character]
+success_symbol = '>'
+error_symbol = '!>'
