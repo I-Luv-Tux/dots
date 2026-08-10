@@ -1,0 +1,28 @@
+# Alacritty configuration file
+
+[window]
+# NO subtle padding inside the window borders
+padding = { x = 0, y = 0 }
+# Disable window decorations if you want a true borderless minimal look (uncomment below)
+decorations = "none"
+
+[colors.primary]
+background = '#ad6400'
+foreground = '#ffffff'
+
+[colors.normal]
+black   = "#140808"
+red     = "#a62828"
+green   = "#5f6c5a"
+yellow  = "#a67c4d"
+blue    = "#4a5b6e"
+magenta = "#854c65"
+cyan    = "#a9cdd6"
+white   = "#e0d8d8"
+
+[font]
+size = 7
+
+[font.normal]
+family = "Xanh Mono"
+style = "Regular"
