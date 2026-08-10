@@ -1,0 +1,31 @@
+[window]
+padding = { x = 0, y = 0 }
+dynamic_padding = true
+
+[font]
+normal = { family = "terminus", style = "Regular" }
+size = 10.0
+
+[colors.primary]
+background = "#8c3131"
+foreground = "#fff0f0"
+
+[colors.normal]
+black   = "#382a2a"
+red     = "#a86b6b"
+green   = "#7e8f77"
+yellow  = "#a89774"
+blue    = "#748399"
+magenta = "#947888"
+cyan    = "#789191"
+white   = "#b8aeae"
+
+[colors.bright]
+black   = "#4f3d3d"
+red     = "#c48585"
+green   = "#92a38b"
+yellow  = "#bdac88"
+blue    = "#8897ad"
+magenta = "#ab8f9e"
+cyan    = "#8da6a6"
+white   = "#e3dbdb"
